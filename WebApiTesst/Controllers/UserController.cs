@@ -1,5 +1,5 @@
 ﻿using BusinessLogic.Interfaces;
-using DataAccess.Models;
+using Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApiTesst.Controllers
