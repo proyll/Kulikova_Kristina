@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccess.Models;
 using DataAccess.Interfaces;
 using DataAccess.Repositories;
 
-namespace DataAccess.Wrapper
+namespace DataAccess
 {
     public class RepositoryWrapper : IRepositoryWrapper
     {
@@ -28,9 +27,9 @@ namespace DataAccess.Wrapper
         {
             _repoContext = repositoryContext;
         }
-        public void Save()
+        public async Task Save()
         {
-            _repoContext.SaveChanges();
+            await _repoContext.SaveChangesAsync();
         }
     }
 }
