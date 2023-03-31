@@ -9,3 +9,27 @@ C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликов�
 C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\Domain\obj\Debug\net6.0\Domain.dll
 C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\Domain\obj\Debug\net6.0\ref\Domain.dll
 C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Практика_Куликова\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\Практика_Куликова\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Практика_Куликова\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Практика_Куликова\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика_Куликова\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Практика_Куликова\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Практика_Куликова\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Практика_Куликова\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика_Куликова\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Практика_Куликова\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\Практика_Куликова\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Практика_Куликова\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\Практика_Куликов\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика_Куликов\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Практика_Куликов\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Практика_Куликов\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Практика_Куликов\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика_Куликов\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Практика_Куликов\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\Практика_Куликов\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Практика_Куликов\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\Практика_Куликов\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Практика_Куликов\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Практика_Куликов\Domain\obj\Debug\net6.0\ref\Domain.dll
