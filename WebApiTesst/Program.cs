@@ -13,12 +13,31 @@ namespace WebApiTesst
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-          
-
             // Add services to the container.
             builder.Services.AddDbContext<OdezdaContext>(
                optionsAction: options => options.UseSqlServer(
                    connectionString: "Server= lab116-p;Database= api_market;User Id= sa;Password= 12345;"));
+            builder.Services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Version = "v1",
+                    Title = "Интернет-магазин API",
+                    Description = "Краткое описание вашего API",
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Пример контакта",
+                        Url = new Uri("https://example.com/contact")
+                    },
+                    License = new OpenApiLicense
+                    {
+                        Name = "Пример лицензии",
+                        Url = new Uri("https://example.com/license")
+                    }
+                });
+                var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
+            });
 
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
             builder.Services.AddScoped<IUserService, UserService>();
@@ -44,6 +63,8 @@ namespace WebApiTesst
             app.MapControllers();
 
             app.Run();
+           
+
         }
     }
 }
