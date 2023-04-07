@@ -25,7 +25,9 @@ namespace WebApiTesst.Controllers
             return Ok(await _userService.GetAll());
         }
 
-
+        /// <summary>
+        /// Получение Id всех пользователей БД
+        /// </summary>
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
