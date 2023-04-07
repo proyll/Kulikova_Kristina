@@ -29,5 +29,15 @@
              <param name="model">Пользователь</param>
              <returns></returns>
         </member>
+        <member name="M:WebApiTesst.Controllers.UserController.Update(Domain.Models.Userss)">
+            <summary>
+            Изменение сущностей записи
+            </summary>
+        </member>
+        <member name="M:WebApiTesst.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            Удаление данных
+            </summary>
+        </member>
     </members>
 </doc>

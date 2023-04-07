@@ -67,12 +67,20 @@ namespace WebApiTesst.Controllers
             return Ok();
 
         }
+
+        /// <summary>
+        /// Изменение сущностей записи
+        /// </summary>
         [HttpPut]
         public async Task<IActionResult> Update(Userss user)
         {
             await _userService.Update(user);
             return Ok();
         }
+
+        /// <summary>
+        /// Удаление данных
+        /// </summary>
         [HttpDelete]
         public async Task<IActionResult> Delete(int id)
         {
