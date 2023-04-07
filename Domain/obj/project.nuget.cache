@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "usJfc/tknJPCQ5buO52nEJmHTfLGmf7a83JTMtKIWtIaXlk7I1VEa42cfk1Hw+Et98Obl9tCS3O9qa5Kyn0Hmg==",
+  "dgSpecHash": "a13c60/JddTduD6UVnY9sTi7xcJqF9SOn8MXSjupnN2+rl/YNGQ9xIvBuorWGWNiK+TOgqiibFn7+nWMZF45gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Практика_Куликова\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.14\\microsoft.entityframeworkcore.6.0.14.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.14\\microsoft.entityframeworkcore.abstractions.6.0.14.nupkg.sha512",
