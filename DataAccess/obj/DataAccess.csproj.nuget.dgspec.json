@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Практика_Куликова\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Практика_Куликова\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Практика_Куликова\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\user\\Desktop\\Практика_Куликова\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Практика_Куликова\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Практика_Куликова\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Практика_Куликова\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj"
               }
             }
           }
@@ -61,8 +61,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,18 +70,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Практика_Куликова\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Практика_Куликова\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\Практика_Куликова\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Практика_Куликова\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,8 +121,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
