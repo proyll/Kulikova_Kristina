@@ -239,3 +239,4 @@ C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\WebApi
 C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.xml
 C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Mapster.dll
 C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Mapster.Core.dll
+C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\refint\WebApiTesst.dll
