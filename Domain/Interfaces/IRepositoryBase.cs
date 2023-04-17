@@ -9,6 +9,7 @@ namespace DataAccess.Interfaces
 {
     public interface IRepositoryBase<T>
     {
+
         IQueryable<T> FindAll();
         IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression);
         void Create(T entity);
