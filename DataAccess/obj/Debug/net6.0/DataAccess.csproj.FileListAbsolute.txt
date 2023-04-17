@@ -46,7 +46,6 @@ C:\Users\user\Desktop\Практика_Куликов\DataAccess\obj\Debug\net6.
 C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
 C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
 C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\bin\Debug\net6.0\DataAccess.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
 C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\bin\Debug\net6.0\DataAccess.pdb
 C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\bin\Debug\net6.0\Domain.dll
 C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\bin\Debug\net6.0\Domain.pdb
@@ -60,3 +59,4 @@ C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAcc
 C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
 C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\user\Desktop\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
