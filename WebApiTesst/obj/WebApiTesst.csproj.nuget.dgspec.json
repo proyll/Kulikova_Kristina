@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj": {}
+    "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\WebApiTesst\\WebApiTesst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\BusinessLogic\\obj\\",
+        "projectPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\masha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\masha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj"
-              },
-              "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj"
+              "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\Domain\\Domain.csproj"
               }
             }
           }
@@ -52,8 +53,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -62,21 +62,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\masha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\masha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +94,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj"
+              "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\Domain\\Domain.csproj"
               }
             }
           }
@@ -106,6 +110,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.14, )"
@@ -123,8 +131,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -133,21 +140,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
+    "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\masha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\masha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -176,6 +187,16 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
             }
           },
           "imports": [
@@ -184,8 +205,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -194,21 +214,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj": {
+    "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\WebApiTesst\\WebApiTesst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj",
+        "projectUniqueName": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\WebApiTesst\\WebApiTesst.csproj",
         "projectName": "WebApiTesst",
-        "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\WebApiTesst\\obj\\",
+        "projectPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\WebApiTesst\\WebApiTesst.csproj",
+        "packagesPath": "C:\\Users\\masha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\WebApiTesst\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\masha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -222,11 +246,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\masha\\OneDrive\\Рабочий стол\\Kylikova\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -243,7 +267,7 @@
           "dependencies": {
             "Mapster": {
               "target": "Package",
-              "version": "[7.3.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -251,13 +275,13 @@
               "target": "Package",
               "version": "[6.0.14, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
-            },
-            "Telegram.Bot": {
-              "target": "Package",
-              "version": "[18.0.0, )"
             }
           },
           "imports": [
@@ -266,8 +290,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -279,7 +302,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

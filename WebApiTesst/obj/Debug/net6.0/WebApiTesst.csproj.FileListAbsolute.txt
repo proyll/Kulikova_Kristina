@@ -1,242 +1,78 @@
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\appsettings.json
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.exe
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.deps.json
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.runtimeconfig.json
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.dll
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\ref\WebApiTesst.dll
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.pdb
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.AssemblyReference.cache
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfoInputs.cache
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfo.cs
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CoreCompileInputs.cache
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\scopedcss\bundle\WebApiTesst.styles.css
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CopyComplete
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.dll
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\ref\WebApiTesst.dll
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.pdb
-C:\Users\masha\OneDrive\Рабочий стол\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.genruntimeconfig.cache
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\appsettings.json
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.exe
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.deps.json
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.runtimeconfig.json
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\WebApiTesst.pdb
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\BusinessLogic.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\DataAccess.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\BusinessLogic.pdb
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\bin\Debug\net6.0\DataAccess.pdb
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfo.cs
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\staticwebassets\msbuild.WebApiTesst.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiTesst.props
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiTesst.props
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiTesst.props
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\scopedcss\bundle\WebApiTesst.styles.css
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CopyComplete
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\refint\WebApiTesst.dll
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.pdb
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\WebApiTesst.genruntimeconfig.cache
-C:\Users\user\Desktop\Практика_Куликова\WebApiTesst\obj\Debug\net6.0\ref\WebApiTesst.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfo.cs
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\refint\WebApiTesst.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.pdb
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\appsettings.json
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\WebApiTesst.exe
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\WebApiTesst.deps.json
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\WebApiTesst.runtimeconfig.json
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\WebApiTesst.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\WebApiTesst.pdb
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\BusinessLogic.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\DataAccess.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Domain.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\BusinessLogic.pdb
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\DataAccess.pdb
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Domain.pdb
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\staticwebassets\msbuild.WebApiTesst.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiTesst.props
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiTesst.props
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiTesst.props
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\scopedcss\bundle\WebApiTesst.styles.css
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CopyComplete
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\WebApiTesst.genruntimeconfig.cache
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\obj\Debug\net6.0\ref\WebApiTesst.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Humanizer.dll
-C:\Users\user\Desktop\Практика_Куликов\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfo.cs
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\ref\WebApiTesst.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.pdb
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\appsettings.json
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\WebApiTesst.exe
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\WebApiTesst.deps.json
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\WebApiTesst.runtimeconfig.json
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\WebApiTesst.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\ref\WebApiTesst.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\WebApiTesst.pdb
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Humanizer.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\BusinessLogic.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\DataAccess.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Domain.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\BusinessLogic.pdb
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\DataAccess.pdb
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Domain.pdb
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\scopedcss\bundle\WebApiTesst.styles.css
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CopyComplete
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.genruntimeconfig.cache
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\WebApiTesst.xml
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\WebApiTesst.xml
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Mapster.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\bin\Debug\net6.0\Mapster.Core.dll
-C:\Users\user\Desktop\Kulikova_Kristina-main\WebApiTesst\obj\Debug\net6.0\refint\WebApiTesst.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\appsettings.json
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\WebApiTesst.exe
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\WebApiTesst.deps.json
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\WebApiTesst.runtimeconfig.json
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\WebApiTesst.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\ref\WebApiTesst.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\WebApiTesst.pdb
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Humanizer.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Moq.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.AssemblyReference.cache
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfoInputs.cache
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.AssemblyInfo.cs
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CoreCompileInputs.cache
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\scopedcss\bundle\WebApiTesst.styles.css
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.csproj.CopyComplete
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\ref\WebApiTesst.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.pdb
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\obj\Debug\net6.0\WebApiTesst.genruntimeconfig.cache
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Mapster.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\DataAccess.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Domain.dll
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\masha\OneDrive\Рабочий стол\Kylikova\WebApiTesst\bin\Debug\net6.0\Domain.pdb

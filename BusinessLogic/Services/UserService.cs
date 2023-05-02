@@ -1,7 +1,14 @@
-﻿using BusinessLogic.Interfaces;
-using DataAccess.Interfaces;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Domain.Interfaces;
 using Domain.Models;
-using DataAccess;
+using Domain.Wrapper;
+using System.Data.SqlTypes;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace BusinessLogic.Services
 {
@@ -24,20 +31,31 @@ namespace BusinessLogic.Services
         }
         public async Task Create(Userss model)
         {
+            if (model == null) {
+                throw new ArgumentNullException(nameof(model));
+            }
+
+
+            if (string.IsNullOrEmpty(model.FirstName)) {
+                throw new ArgumentException(nameof(model.FirstName));
+            }
             await _repositoryWrapper.User.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
         public async Task Update(Userss model)
         {
-            _repositoryWrapper.User.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.User.Update(model);
+            await _repositoryWrapper.Save();
         }
         public async Task Delete(int id)
         {
             var user = await _repositoryWrapper.User
             .FindByCondition(x => x.Id == id);
-            _repositoryWrapper.User.Delete(user.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.User.Delete(user.First());
+            await _repositoryWrapper.Save();
         }
+
+
     }
 }
+

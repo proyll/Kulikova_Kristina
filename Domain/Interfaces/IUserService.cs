@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Domain.Models;
 
-namespace BusinessLogic.Interfaces
+namespace Domain.Interfaces
 {
     public interface IUserService
     {

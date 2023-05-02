@@ -3,14 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccess.Interfaces;
+using Domain.Models;
 using DataAccess.Repositories;
-
-namespace DataAccess
+using Domain.Wrapper;
+using DataAccess.Models;
+using Domain.Interfaces;
+namespace DataAccess.Wrapper
 {
     public class RepositoryWrapper : IRepositoryWrapper
     {
-        private OdezdaContext _repoContext;
+        private magazContext _repoContext;
         private IUserRepository _user;
         public IUserRepository User
         {
@@ -23,13 +25,13 @@ namespace DataAccess
                 return _user;
             }
         }
-        public RepositoryWrapper(OdezdaContext repositoryContext)
+        public RepositoryWrapper(magazContext repositoryContext)
         {
             _repoContext = repositoryContext;
         }
         public async Task Save()
         {
-            await _repoContext.SaveChangesAsync();
+            _repoContext.SaveChanges();
         }
     }
 }
