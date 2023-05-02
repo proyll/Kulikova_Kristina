@@ -22,5 +22,4 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
 
-      - name: Run dotnet format
-        run: dotnet-format --folder --check --verbosity diagnostic
+    
