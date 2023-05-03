@@ -10,6 +10,10 @@ namespace Domain.Wrapper
     public interface IRepositoryWrapper
     {
         IUserRepository User { get; }
+        
+        IFilterRepository Filter { get; }
+
+        IProductRepository Product { get; }
         Task Save();
     }
 }
