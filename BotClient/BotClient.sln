@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotClient", "BotClient\BotClient.csproj", "{CE0F32D8-270F-4322-83D0-C6AF2E439B9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{6653B12C-27E6-497E-A687-C194BC39C6D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0F32D8-270F-4322-83D0-C6AF2E439B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0F32D8-270F-4322-83D0-C6AF2E439B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0F32D8-270F-4322-83D0-C6AF2E439B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0F32D8-270F-4322-83D0-C6AF2E439B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6653B12C-27E6-497E-A687-C194BC39C6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6653B12C-27E6-497E-A687-C194BC39C6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6653B12C-27E6-497E-A687-C194BC39C6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6653B12C-27E6-497E-A687-C194BC39C6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEAC8555-C11D-478D-AAD2-8886F5DF9508}
+	EndGlobalSection
+EndGlobal
