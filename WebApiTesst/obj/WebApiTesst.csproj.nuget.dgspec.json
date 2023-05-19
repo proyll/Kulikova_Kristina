@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj": {}
+    "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\BusinessLogic\\obj\\",
+        "projectPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\Domain\\Domain.csproj"
+              "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\Domain\\Domain.csproj"
               }
             }
           }
@@ -63,24 +63,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\Domain\\Domain.csproj"
+              "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\Domain\\Domain.csproj"
               }
             }
           }
@@ -142,24 +142,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
+    "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -217,24 +217,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj": {
+    "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj",
+        "projectUniqueName": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj",
         "projectName": "WebApiTesst",
-        "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\WebApiTesst\\obj\\",
+        "projectPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\WebApiTesst\\WebApiTesst.csproj",
+        "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\WebApiTesst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -249,11 +249,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Новая папка (3)\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\krist\\OneDrive\\Рабочий стол\\Kulikova_Kristina-main\\Kulikova_Kristina-main\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -306,7 +306,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
