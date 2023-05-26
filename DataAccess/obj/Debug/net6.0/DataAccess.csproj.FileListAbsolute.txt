@@ -40,3 +40,10 @@ C:\Users\user.UIT\Desktop\Kulikova_Kristina-main\Kulikova_Kristina-main\DataAcce
 C:\Users\user.UIT\Desktop\Kulikova_Kristina-main\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
 C:\Users\user.UIT\Desktop\Kulikova_Kristina-main\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\user.UIT\Desktop\Kulikova_Kristina-main\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\user\Desktop\1Пр\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1Пр\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\1Пр\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\1Пр\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\1Пр\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1Пр\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\user\Desktop\1Пр\Kulikova_Kristina-main\DataAccess\obj\Debug\net6.0\DataAccess.pdb

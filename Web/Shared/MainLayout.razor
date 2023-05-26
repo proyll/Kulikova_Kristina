@@ -1,0 +1,43 @@
+﻿@using Web.Auth;
+@inherits LayoutComponentBase
+@inject AuthenticationStateProvider authSP
+@inject NavigationManager navManager
+
+<PageTitle>Web</PageTitle>
+
+<MudThemeProvider></MudThemeProvider>
+<MudDialog></MudDialog>
+<MudSnackbarProvider></MudSnackbarProvider>
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+            <AuthorizeView>
+                <Authorized>
+                    <a @onclick="Logout" href="javascript:void(0)">Logout</a>
+                </Authorized>
+                <NotAuthorized>
+                    <a href="/login">Login</a>
+                </NotAuthorized>
+            </AuthorizeView>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+@code {
+    private async Task Logout()
+    {
+        var customASP = (CustomAuthenticationStateProvider)authSP;
+        await customASP.UpdateAuthenticationStateAsync(null);
+        navManager.NavigateTo("/", true);
+    }
+}

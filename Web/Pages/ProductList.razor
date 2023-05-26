@@ -1,0 +1,19 @@
+﻿@page "/product-list"
+@inject IProductService ProductService
+
+<h3>ProductList</h3>
+
+@foreach(var product in products)
+{
+    <h3>Товар: @product.NameP</h3>
+    <p>Цена: @product.Price</p>
+    <hr />
+}
+@code {
+    private List<Product> products = new List<Product>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductService.GetAll();
+    }
+}
